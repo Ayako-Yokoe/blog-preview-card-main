@@ -21,8 +21,8 @@ Adjusting the image size for mobile was challenging.
 
 ### Screenshot
 
-![1440px](./assets/images/1440px.jpeg)
 ![375px](./assets/images/375px.jpeg)
+![1440px](./assets/images/1440px.jpeg)
 
 ### Links
 
